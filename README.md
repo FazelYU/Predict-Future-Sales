@@ -1,3 +1,5 @@
+---NOTE: I am currently working on the documentation and the readiblity of the code. Sorry about it :) !
+
 Abstract— 
 
 Sales prediction is the task of estimating the future sales of a company in a given time frame. Accurate short-term sales prediction allows companies to minimize stocked and expired products inside stores and at the same time avoid missing sales. 
